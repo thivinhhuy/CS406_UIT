@@ -1,4 +1,31 @@
-# README
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
+
+<!-- Title -->
+<h1 align="center"><b>Xử lý ảnh và ứng dụng - CS406.P12.CLC</b></h1>
+
+
+
+## Lecturer
+<a name="lecturer"></a>
+**Cáp Phạm Đình Thăng**
+
+## Member
+<a name="member"></a>
+<a name="member"></a>
+|**ID**|**Student ID**|**Name**|**Email**|
+| ------ |-------------|----------------------|-------------------------|
+| 1      | 21522110   	 |Thi Vinh Huy|21522165@gm.uit.edu.vn|
+| 2      | 21522089      |Ngô Trần Tuấn Anh|21520567@gm.uit.edu.vn|
+| 3      | 21522165 	   |Nguyễn Minh Hiếu|21520853@gm.uit.edu.vn|
+| 4      | 21522507      |Trần Thanh Hà|21521749@gm.uit.edu.vn|
+
+## Project
+<a name="project"></a>
+# Hệ thống trích xuất thông tin từ căn cước công dân
 
 ## Mục tiêu
 Dự án này tập trung vào việc huấn luyện và triển khai các mô hình YOLO và Detectron2 để phát hiện đối tượng, đồng thời sử dụng Tesseract OCR để trích xuất văn bản từ ảnh.
