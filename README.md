@@ -1,4 +1,4 @@
-# CS406
+# README
 
 ## Mục tiêu
 Dự án này tập trung vào việc huấn luyện và triển khai các mô hình YOLO và Detectron2 để phát hiện đối tượng, đồng thời sử dụng Tesseract OCR để trích xuất văn bản từ ảnh.
@@ -61,6 +61,20 @@ Sau khi cài đặt, kiểm tra đường dẫn cấu hình Tesseract OCR bằng
 - Sử dụng YOLOv5 hoặc YOLOv8 để huấn luyện mô hình của bạn.
 - Tham khảo tài liệu [Ultralytics](https://github.com/ultralytics/ultralytics) để thiết lập và chạy các lệnh huấn luyện phù hợp.
 
+##### Huấn luyện YOLO với các mô hình cụ thể
+
+- Mô hình 1:
+
+```bash
+!yolo task=detect mode=train model=yolo11n.pt data=/content/drive/MyDrive/CS406/Project/datasets/dataset_chip/data.yaml epochs=10 imgsz=640
+```
+
+- Mô hình 2:
+
+```bash
+!yolo task=detect mode=train model=yolo11n.pt data=/content/drive/MyDrive/CS406/Project/datasets/dataset_order/data.yaml epochs=10 imgsz=640
+```
+
 #### Huấn luyện Detectron2
 
 - Sử dụng các công cụ của Detectron2 để thiết lập và huấn luyện mô hình.
@@ -100,5 +114,3 @@ python app.py
 - Đảm bảo rằng bạn có đủ tài nguyên phần cứng (GPU) để huấn luyện các mô hình.
 - Kiểm tra các phiên bản thư viện để tránh xung đột.
 
-## Liên hệ
-- Nếu có câu hỏi hoặc cần hỗ trợ, vui lòng liên hệ qua email: [your_email@example.com].
