@@ -18,10 +18,10 @@
 <a name="member"></a>
 |**ID**|**Student ID**|**Name**|**Email**|
 | ------ |-------------|----------------------|-------------------------|
-| 1      | 21522110   	 |Thi Vinh Huy|21522165@gm.uit.edu.vn|
-| 2      | 21522089      |Ngô Trần Tuấn Anh|21520567@gm.uit.edu.vn|
-| 3      | 21522165 	   |Nguyễn Minh Hiếu|21520853@gm.uit.edu.vn|
-| 4      | 21522507      |Trần Thanh Hà|21521749@gm.uit.edu.vn|
+| 1      | 21522165   	 |Thi Vinh Huy|21522165@gm.uit.edu.vn|
+| 2      | 21520567      |Ngô Trần Tuấn Anh|21520567@gm.uit.edu.vn|
+| 3      | 21520853 	   |Nguyễn Minh Hiếu|21520853@gm.uit.edu.vn|
+| 4      | 21521749      |Trần Thanh Hà|21521749@gm.uit.edu.vn|
 
 ## Project
 <a name="project"></a>
